@@ -1,0 +1,11 @@
+{
+   "nodes": {
+      "id": "Lenguaje",
+      "group": 4
+   },
+   "links": {
+      "source": "Juan",
+      "target": "Historia",
+      "value": 20
+   }
+}
